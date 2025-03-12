@@ -27,8 +27,7 @@ Implementar una prueba automatizada utilizando Playwright con TypeScript, que si
 > **Email:** `qa_tester+<timestamp>@mail.com`  
 > **Contraseña:** `Password123`  
 
-**Tarjeta de prueba:**  
-
+**Tarjeta de prueba:** 
 > **Número:** `4111 1111 1111 1111`  
 > **Expiración:** `12/25`  
 > **CVV:** `123`
