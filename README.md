@@ -1,5 +1,5 @@
 # 🛠️ Prueba de Automatización QA - Registro y Compra Simulada
-### 🎯 Objetivo
+## 🎯 Objetivo
 Implementar una prueba automatizada utilizando Playwright con TypeScript, que simule el flujo de registro y compra en una página de e-commerce ficticia, asegurando robustez y mantenibilidad.
 
 ## 🧠 Requisitos del Proyecto
@@ -11,8 +11,8 @@ Implementar una prueba automatizada utilizando Playwright con TypeScript, que si
 ## 🔥 Escenario de Prueba Automatizado
 1. **Acceso a la página:** http://localhost:3000 (basado en el proyecto Node creado previamente).
 2. **Registro de usuario:**
-* Llenar el formulario con datos ficticios válidos.
-* Validar mensajes de error al dejar campos vacíos o con formato incorrecto.
+    * Llenar el formulario con datos ficticios válidos.
+    * Validar mensajes de error al dejar campos vacíos o con formato incorrecto.
 3. **Agregar productos al carrito:**
 * Añadir el primer y último producto de la lista.
 * Incluir un producto personalizado (por ejemplo, seleccionando color/tamaño).
