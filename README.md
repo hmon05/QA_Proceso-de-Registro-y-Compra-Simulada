@@ -1,6 +1,5 @@
-# QA_Proceso-de-Registro-y-Compra-Simulada
-🛠️ Prueba de Automatización QA - Registro y Compra Simulada
-🎯 Objetivo
+# 🛠️ Prueba de Automatización QA - Registro y Compra Simulada
+### 🎯 Objetivo
 Implementar una prueba automatizada utilizando Playwright con TypeScript, que simule el flujo de registro y compra en una página de e-commerce ficticia, asegurando robustez y mantenibilidad.
 
 🧠 Requisitos del Proyecto
