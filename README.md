@@ -28,10 +28,11 @@ Implementar una prueba automatizada utilizando Playwright con TypeScript, que si
 * **Contraseña:** Password123
 
 **Tarjeta de prueba:**
-    * **Número:** 4111 1111 1111 1111
-    * **Expiración:** 12/25
-    * **CVV:** 123
-
+'''
+* **Número:** 4111 1111 1111 1111
+* **Expiración:** 12/25
+* **CVV:** 123
+'''
 ## ⚙️ Requisitos Técnicos Avanzados
 **🎯 Estrategia de selectores**
 * Implementación de selectores robustos y fallback para mantener estabilidad.
