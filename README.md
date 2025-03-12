@@ -14,13 +14,13 @@ Implementar una prueba automatizada utilizando Playwright con TypeScript, que si
     * Llenar el formulario con datos ficticios válidos.
     * Validar mensajes de error al dejar campos vacíos o con formato incorrecto.
 3. **Agregar productos al carrito:**
-* Añadir el primer y último producto de la lista.
-* Incluir un producto personalizado (por ejemplo, seleccionando color/tamaño).
+    * Añadir el primer y último producto de la lista.
+    * Incluir un producto personalizado (por ejemplo, seleccionando color/tamaño).
 4. **Proceso de compra:**
-* Completar los datos de pago (simulados).
-* Validar que aparezca la página de confirmación.
+    * Completar los datos de pago (simulados).
+    * Validar que aparezca la página de confirmación.
 5. **Validación de la orden:**
-* Enviar un POST a un endpoint ficticio para verificar el registro de la orden.
+    * Enviar un POST a un endpoint ficticio para verificar el registro de la orden.
 
 ## 🧪 Datos de Prueba Usados
 * **Usuario:** Nombre generado aleatoriamente.
@@ -28,9 +28,9 @@ Implementar una prueba automatizada utilizando Playwright con TypeScript, que si
 * **Contraseña:** Password123
 
 **Tarjeta de prueba:**
-* **Número:** 4111 1111 1111 1111
-* **Expiración:** 12/25
-* **CVV:** 123
+    * **Número:** 4111 1111 1111 1111
+    * **Expiración:** 12/25
+    * **CVV:** 123
 
 ## ⚙️ Requisitos Técnicos Avanzados
 **🎯 Estrategia de selectores**
