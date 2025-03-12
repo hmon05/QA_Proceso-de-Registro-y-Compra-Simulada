@@ -23,16 +23,15 @@ Implementar una prueba automatizada utilizando Playwright con TypeScript, que si
     * Enviar un POST a un endpoint ficticio para verificar el registro de la orden.
 
 ## 🧪 Datos de Prueba Usados
-* **Usuario:** Nombre generado aleatoriamente.
-* **Email:** qa_tester+<timestamp>@mail.com (para asegurar unicidad).
-* **Contraseña:** Password123
+>**Usuario:** Nombre generado aleatoriamente.
+>**Email:** qa_tester+<timestamp>@mail.com (para asegurar unicidad).
+>**Contraseña:** Password123
 
 **Tarjeta de prueba:**
-'''
-* **Número:** 4111 1111 1111 1111
-* **Expiración:** 12/25
-* **CVV:** 123
-'''
+>**Número:** 4111 1111 1111 1111
+>**Expiración:** 12/25
+>**CVV:** 123
+
 ## ⚙️ Requisitos Técnicos Avanzados
 **🎯 Estrategia de selectores**
 * Implementación de selectores robustos y fallback para mantener estabilidad.
